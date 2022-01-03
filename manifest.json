@@ -1,0 +1,10 @@
+{
+  "name": "Dockit URL Changer",
+  "description": "Switch between different dockit environments via URL",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
